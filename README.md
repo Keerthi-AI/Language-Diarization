@@ -6,3 +6,5 @@ TDNN model
 LSTM model 
 
 for language diarization using MFCC-based feature extraction.
+
+We compare both these model in the file
